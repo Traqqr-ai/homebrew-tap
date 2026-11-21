@@ -1,6 +1,6 @@
 cask "traqqr.ai" do
-  version "0.3.0"
-  sha256 "8ba8b5b41feb7cc680912a3626284fbf21923228c9c2977866de0f4205aaa978"
+  version "0.3.1"
+  sha256 "ddfd199f64620ae704d6e5158dff957813715f2ac55db729c6c3267aa40a11a1"
 
   url "https://github.com/Traqqr-ai/homebrew-tap/releases/download/v#{version}/traqqr.ai-#{version}-darwin-universal.zip"
   name "Traqqr.ai CLI"
